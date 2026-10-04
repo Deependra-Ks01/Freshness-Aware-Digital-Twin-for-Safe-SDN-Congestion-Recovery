@@ -1,0 +1,18 @@
+{
+  "label": "static",
+  "pings_sent": 550,
+  "pings_lost": 189,
+  "loss_pct": 34.36,
+  "rtt_mean_ms": 48.1,
+  "rtt_p95_ms": 130.0,
+  "rtt_p99_ms": 130.0,
+  "rtt_max_ms": 134.0,
+  "rtt_mean_during_bulk_ms": 126.5,
+  "sla_violations": 293,
+  "sla_violation_pct": 53.27,
+  "sla_violation_seconds": 29.3,
+  "reroutes": 0,
+  "flow_mods": 0,
+  "detect_to_reroute_s": null,
+  "stats_samples": 770
+}

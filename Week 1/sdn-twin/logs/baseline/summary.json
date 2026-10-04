@@ -1,0 +1,18 @@
+{
+  "label": "baseline",
+  "pings_sent": 550,
+  "pings_lost": 18,
+  "loss_pct": 3.27,
+  "rtt_mean_ms": 21.1,
+  "rtt_p95_ms": 24.0,
+  "rtt_p99_ms": 129.0,
+  "rtt_max_ms": 130.0,
+  "rtt_mean_during_bulk_ms": 24.8,
+  "sla_violations": 25,
+  "sla_violation_pct": 4.55,
+  "sla_violation_seconds": 2.5,
+  "reroutes": 2,
+  "flow_mods": 20,
+  "detect_to_reroute_s": 2.64,
+  "stats_samples": 780
+}

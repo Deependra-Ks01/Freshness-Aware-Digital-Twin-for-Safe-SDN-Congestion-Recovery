@@ -24,3 +24,4 @@ sleep 4
 # system python (has mininet), not the venv python
 sudo /usr/bin/python3 run_experiment.py --mode experiment --out "$OUT" "$@"
 echo "Done. Logs in $OUT"
+EOF

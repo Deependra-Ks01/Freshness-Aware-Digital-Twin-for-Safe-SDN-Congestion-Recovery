@@ -1,0 +1,40 @@
+------------------------------------------------------------
+Server listening on UDP port 5001
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 10.0.0.12 port 5001 connected with 10.0.0.2 port 38186
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.0000-1.0000 sec  1.16 MBytes  9.76 Mbits/sec   0.351 ms 371/1201 (31%)
+[  1] 0.0000-1.0000 sec  5 datagrams received out-of-order
+[  1] 1.0000-2.0000 sec  1.16 MBytes  9.73 Mbits/sec   0.364 ms 511/1338 (38%)
+[  1] 2.0000-3.0000 sec  1.16 MBytes  9.71 Mbits/sec   0.358 ms 511/1337 (38%)
+[  1] 3.0000-4.0000 sec  1.16 MBytes  9.73 Mbits/sec   0.373 ms 511/1338 (38%)
+[  1] 4.0000-5.0000 sec  1.16 MBytes  9.71 Mbits/sec   0.379 ms 514/1340 (38%)
+[  1] 5.0000-6.0000 sec  1.16 MBytes  9.71 Mbits/sec   0.357 ms 508/1334 (38%)
+[  1] 6.0000-7.0000 sec  1.16 MBytes  9.73 Mbits/sec   0.370 ms 511/1338 (38%)
+[  1] 7.0000-8.0000 sec  1.16 MBytes  9.71 Mbits/sec   0.381 ms 513/1339 (38%)
+[  1] 8.0000-9.0000 sec  1.16 MBytes  9.71 Mbits/sec   0.335 ms 512/1338 (38%)
+[  1] 9.0000-10.0000 sec  1.16 MBytes  9.70 Mbits/sec   0.334 ms 511/1336 (38%)
+[  1] 10.0000-11.0000 sec  1.08 MBytes  9.08 Mbits/sec   0.482 ms 565/1337 (42%)
+[  1] 11.0000-12.0000 sec  1.14 MBytes  9.58 Mbits/sec   1.158 ms 505/1320 (38%)
+[  1] 12.0000-13.0000 sec  1.16 MBytes  9.73 Mbits/sec   0.349 ms 529/1356 (39%)
+[  1] 13.0000-14.0000 sec  1.16 MBytes  9.71 Mbits/sec   0.352 ms 510/1336 (38%)
+[  1] 14.0000-15.0000 sec  1.16 MBytes  9.71 Mbits/sec   0.416 ms 515/1341 (38%)
+[  1] 15.0000-16.0000 sec  1.16 MBytes  9.73 Mbits/sec   0.360 ms 508/1335 (38%)
+[  1] 16.0000-17.0000 sec  1.16 MBytes  9.71 Mbits/sec   0.340 ms 512/1338 (38%)
+[  1] 17.0000-18.0000 sec  1.16 MBytes  9.73 Mbits/sec   0.337 ms 509/1336 (38%)
+[  1] 18.0000-19.0000 sec  1.16 MBytes  9.73 Mbits/sec   0.340 ms 513/1340 (38%)
+[  1] 19.0000-20.0000 sec  1.16 MBytes  9.71 Mbits/sec   0.362 ms 509/1335 (38%)
+[  1] 20.0000-21.0000 sec  1.16 MBytes  9.71 Mbits/sec   0.377 ms 512/1338 (38%)
+[  1] 21.0000-22.0000 sec  1.16 MBytes  9.71 Mbits/sec   0.367 ms 511/1337 (38%)
+[  1] 22.0000-23.0000 sec  1.16 MBytes  9.71 Mbits/sec   0.347 ms 511/1337 (38%)
+[  1] 23.0000-24.0000 sec  1.16 MBytes  9.73 Mbits/sec   0.363 ms 511/1338 (38%)
+[  1] 24.0000-25.0000 sec  1.15 MBytes  9.68 Mbits/sec   0.484 ms 516/1339 (39%)
+[  1] 25.0000-26.0000 sec  1.16 MBytes  9.71 Mbits/sec   0.348 ms 509/1335 (38%)
+[  1] 26.0000-27.0000 sec  1.16 MBytes  9.73 Mbits/sec   0.345 ms 512/1339 (38%)
+[  1] 27.0000-28.0000 sec  1.16 MBytes  9.71 Mbits/sec   0.405 ms 512/1338 (38%)
+[  1] 28.0000-29.0000 sec  1.16 MBytes  9.73 Mbits/sec   0.340 ms 510/1337 (38%)
+[  1] 29.0000-30.0000 sec  1.16 MBytes  9.73 Mbits/sec   0.354 ms 511/1338 (38%)
+[  1] 0.0000-30.1027 sec  34.8 MBytes  9.69 Mbits/sec   0.378 ms 15315/40126 (38%)
+[  1] 0.0000-30.1027 sec  5 datagrams received out-of-order
+[  5] WARNING: ack of last datagram failed.

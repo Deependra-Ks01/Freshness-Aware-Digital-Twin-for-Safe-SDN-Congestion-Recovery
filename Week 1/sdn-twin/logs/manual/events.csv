@@ -1,0 +1,14 @@
+ts,event,detail
+1791114552.715,start,reroute=True poll=1.00s high=0.80 low=0.30 alt_max=0.60 hold=5.0s
+1791114624.019,switch_up,dpid=1 proactive_flows=24
+1791114624.077,switch_up,dpid=2 proactive_flows=18
+1791114624.129,switch_up,dpid=3 proactive_flows=0
+1791114624.179,switch_up,dpid=4 proactive_flows=24
+1791114624.231,switch_up,dpid=5 proactive_flows=18
+1791114624.271,switch_up,dpid=6 proactive_flows=0
+1791114632.400,switch_down,dpid=4
+1791114632.415,switch_down,dpid=6
+1791114632.425,switch_down,dpid=3
+1791114632.434,switch_down,dpid=5
+1791114632.449,switch_down,dpid=1
+1791114632.471,switch_down,dpid=2

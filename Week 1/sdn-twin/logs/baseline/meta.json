@@ -1,0 +1,11 @@
+{
+  "t0": 1791115576.8634176,
+  "t_bulk_start": 1791115586.8669834,
+  "t_bulk_end": 1791115617.073741,
+  "n_pings": 550,
+  "ping_interval": 0.1,
+  "lmax_rtt_ms": 30.0,
+  "bulk_proto": "udp",
+  "bulk_mbps": 15,
+  "label": "baseline"
+}
